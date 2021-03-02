@@ -23,8 +23,6 @@ jobs:
           plugin_habits_charts: yes     # Display charts section
           config_timezone: Europe/Paris # Set timezone
           plugin_lines: yes
-          plugin_posts: yes
-          plugin_posts_source: https://bagerbach.com/feed.xml      # External source
           plugin_activity: yes
           plugin_activity_limit: 5    # Limit to 5 events
           plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
