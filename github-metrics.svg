@@ -1293,8 +1293,8 @@
             </div>
           
             <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               14
             </div>
           
@@ -1393,8 +1393,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">3</span>
-                <div class="bar" style="height: 3.9473684210526314px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">4</span>
+                <div class="bar" style="height: 5.263157894736842px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Fri
               </div>
             
@@ -1414,25 +1414,25 @@
             
               <div class="entry">
                 <span class="name">C#</span>
-                <div class="bar" style="width: 46.44%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                <span class="value">58%</span>
+                <div class="bar" style="width: 51.903999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">65%</span>
               </div>
             
               <div class="entry">
                 <span class="name">TeX</span>
-                <div class="bar" style="width: 30.551999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">38%</span>
+                <div class="bar" style="width: 25.456%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">32%</span>
               </div>
             
               <div class="entry">
                 <span class="name">ANTLR</span>
-                <div class="bar" style="width: 2.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">4%</span>
+                <div class="bar" style="width: 2.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">3%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Batchfile</span>
-                <div class="bar" style="width: 0.08800000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">0%</span>
               </div>
             
@@ -1487,7 +1487,7 @@
           
             <span>These metrics include private contributions, timezone Europe/Paris</span>
           
-          <span>Last updated Fri, 02 Apr 2021 12:03:28 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Fri, 02 Apr 2021 13:10:03 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
