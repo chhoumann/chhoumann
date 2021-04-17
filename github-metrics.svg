@@ -1272,8 +1272,10 @@
                 </h3>
                 <div class="chart-bars">
                     <div class="entry">
-                        <span class="value"></span>
-                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        <span class="value">
+                            1
+                        </span>
+                        <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         00
                     </div>
                     <div class="entry">
@@ -1431,9 +1433,9 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">
-                                1
+                                2
                             </span>
-                            <div class="bar" style="height: 2px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
@@ -1489,16 +1491,16 @@
                             <span class="name">
                                 C#
                             </span>
-                            <div class="bar" style="width: 55%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 54.160000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">
-                                69%
+                                68%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 11.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 14%
                             </span>
@@ -1507,7 +1509,7 @@
                             <span class="name">
                                 TeX
                             </span>
-                            <div class="bar" style="width: 7.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 7.023999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 9%
                             </span>
@@ -1516,16 +1518,16 @@
                             <span class="name">
                                 Svelte
                             </span>
-                            <div class="bar" style="width: 4.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.5600000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                6%
+                                7%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 ANTLR
                             </span>
-                            <div class="bar" style="width: 1.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.4400000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 2%
                             </span>
@@ -1534,7 +1536,7 @@
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 0.416%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.40800000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 1%
                             </span>
@@ -1574,7 +1576,7 @@
                     These metrics include private contributions, timezone Europe/Paris
                 </span>
                 <span>
-                    Last updated Sat, 17 Apr 2021 22:02:50 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sat, 17 Apr 2021 23:02:55 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
